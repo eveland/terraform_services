@@ -37,10 +37,10 @@
     },
     {
         "id": "terraform_aws_vm",
-        "name": "AWS_VM",
+        "name": "AWS_VM_S3_BACKEND",
         "description": "Create an AWS VM using Terraform automation",
         "html_url": "https://github.com/cloudify-community/cloudify-catalog/tree/refs/heads/master/terraform",
-        "zip_url": "https://repository.cloudifysource.org/cloudify/blueprints/6.3/terraform/terraform_aws_vm.zip",
+        "zip_url": "https://github.com/eveland/terraform-aws-vm/archive/refs/heads/main.zip",
         "readme_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/refs/heads/master/terraform/aws/README.md",
         "main_blueprint": "blueprint.yaml",
         "image_url": "https://raw.githubusercontent.com/cloudify-community/cloudify-catalog/refs/heads/master/terraform/aws/logo.png",
